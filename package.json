@@ -9,10 +9,20 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@native-html/iframe-plugin": "^2.6.1",
+    "@typeform/embed": "^1.37.0",
     "expo": "~46.0.9",
     "expo-status-bar": "~1.4.0",
+    "jotform-react": "^1.0.4",
     "react": "18.0.0",
-    "react-native": "0.69.5"
+    "react-dom": "18.0.0",
+    "react-jotform": "^1.0.2",
+    "react-jotform-embed": "^1.1.2",
+    "react-native": "0.69.5",
+    "react-native-lightbox-v2": "^0.9.0",
+    "react-native-render-html": "^6.3.4",
+    "react-native-typeform-embed": "^1.0.4",
+    "react-native-webview": "11.23.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
